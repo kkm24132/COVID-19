@@ -41,6 +41,7 @@ It's symptoms in humans are as follows at a high level:
 ### 2.1 References
 
 - [Age-structured impact of social distancing on the COVID-19 epidemic in India](https://arxiv.org/pdf/2003.12055.pdf)
+- [COVID-Net: A tailored deep CNN design for prevention of COVID from chest radiography images](https://arxiv.org/pdf/2003.09871.pdf)
 - [Data repository by John Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 
 ### 2.2 Parameters / KPIs of risk factors for COVID

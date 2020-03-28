@@ -2,9 +2,11 @@
 
 ## 1. Awareness
 ### 1.1 Sources
-- Please refer to authorized sources such as [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019), [CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for details
-- [Stats from worldometers](https://www.worldometers.info/coronavirus/)
-- [Wiki reference for COVID-19 portal](https://en.wikipedia.org/wiki/Portal:Coronavirus_disease_2019)
+- Please refer to authorized sources, local and govt authorities for details and updates.
+  - [World Health Organisation - COVID updates](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+  - [Center for Disease Control - COVID updates](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+  - [Stats from Worldometers](https://www.worldometers.info/coronavirus/)
+  - [Wiki reference for COVID-19 portal](https://en.wikipedia.org/wiki/Portal:Coronavirus_disease_2019)
 
 ### 1.2 Definition
 COVID-19 stands for Corona Virus Disease. It is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease was first identified in Wuhan, China in 2019.

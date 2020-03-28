@@ -4,7 +4,7 @@
 ### 1.1 Sources
 - Please refer to authorized sources, local and govt authorities for details and updates.
   - [World Health Organisation - COVID updates](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
-  - [Center for Disease Control - COVID updates](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+  - [Centers for Disease Control and Prevention - COVID updates](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
   - [Stats from Worldometers](https://www.worldometers.info/coronavirus/)
   - [Wiki reference for COVID-19 portal](https://en.wikipedia.org/wiki/Portal:Coronavirus_disease_2019)
 
@@ -36,3 +36,9 @@ It's symptoms in humans are as follows at a high level:
 - Isolation of persons traveling from affected countries or places for at least 14 days
 - Quarantine if advised
 
+## 2. Research and Publication efforts
+
+### 2.1 References
+
+- [Age-structured impact of social distancing on the COVID-19 epidemic in India](https://arxiv.org/pdf/2003.12055.pdf)
+- [Data repository by John Hopkins University](https://github.com/CSSEGISandData/COVID-19)

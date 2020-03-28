@@ -42,3 +42,22 @@ It's symptoms in humans are as follows at a high level:
 
 - [Age-structured impact of social distancing on the COVID-19 epidemic in India](https://arxiv.org/pdf/2003.12055.pdf)
 - [Data repository by John Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+
+### 2.2 Parameters / KPIs of risk factors for COVID
+
+- Hypertension
+- Diabetes
+- Respiratory diseases including COPD and chronic bronchitis
+- Heart disease
+- Cerebral infarction
+- Obesity
+- Pregnancy (evidence unclear)
+- Smoking (evidence unclear)
+
+### 2.3 Datasets
+
+- [Kaggle reference datasets](https://www.kaggle.com/covid-19-contributions)
+
+
+
+

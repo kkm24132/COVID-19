@@ -2,7 +2,7 @@
 
 ## 1. Awareness
 ### 1.1 Sources
-- Please refer to authorized sources, local and govt authorities for details and updates.
+- We can refer to authorized sources, local and govt authorities for details and latest updates.
   - [World Health Organisation - COVID updates](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
   - [Centers for Disease Control and Prevention - COVID updates](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
   - [Stats from Worldometers](https://www.worldometers.info/coronavirus/)

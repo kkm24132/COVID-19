@@ -8,6 +8,8 @@
   - [Centers for Disease Control and Prevention - COVID updates](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
   - [Stats from Worldometers](https://www.worldometers.info/coronavirus/)
   - [Wiki reference for COVID-19 portal](https://en.wikipedia.org/wiki/Portal:Coronavirus_disease_2019)
+  - [India specific stats on COVID19](https://www.covid19india.org/)
+  - [Odisha state specific stats on COVID19](https://statedashboard.odisha.gov.in/)
 
 ### 1.2 Definition
 COVID-19 stands for Corona Virus Disease. It is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease was first identified in Wuhan, China in 2019.

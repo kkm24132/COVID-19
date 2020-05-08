@@ -90,3 +90,8 @@ Based on above data, following insights at workplace can be looked at. It can wo
   - Ability to monitor distance between two co-workers in a zone to reflect zonal characterisation based on data from Smart phone devices and Bluetooth signals
 
 
+#### Contract Review related effort references
+
+- [From Kira systems](https://kirasystems.com/blog/infographic-the-impacts-of-covid-19-on-businesses/)
+
+

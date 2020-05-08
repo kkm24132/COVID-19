@@ -83,7 +83,10 @@ Based on above data, following insights at workplace can be looked at. It can wo
   - Ability to define and set certain areas as no-go zones and alert authorities when individuals are detected.
   - Detection of humans based on near real time feed from input data sources
 - Health Condition Monitoring
+  - Ability to monitor health data of indivuals on a periodic interval basis and provide alerts based on rules/thresholds set (biometrics and other demographics data can be taken as input based on Govt authority guidelines and to identify body vitals, stress parameters, energy level indicators for the analysis and anomaly detection)
 - Elevated Body temperature monitoring
+  - Ability to identify elevated body temperature beyond a certain threshold set by authorities and alert accordingly
 - Social Distance Measurement Monitoring and Alerting beyond defined threshold
+  - Ability to monitor distance between two co-workers in a zone to reflect zonal characterisation based on data from Smart phone devices and Bluetooth signals
 
 

@@ -74,20 +74,44 @@ Input data sources:
 
 Based on above data, following insights at workplace can be looked at. It can work as a Predictive Solution to alert the firm or authority.
 
-- Face Mask detection
-  - Ability to indicate whether an individual is wearing face mask or not based on video, image data analysis and share insights.
-- Occupancy Monitoring
-  - Ability to determine occupancy levels in a defined space or zone based on threshold defined by authorities
-  - Alert authorities if it reaches threshold or goes beyond the threshold
-- No-Go Zone Monitoring and Alerting
-  - Ability to define and set certain areas as no-go zones and alert authorities when individuals are detected.
-  - Detection of humans based on near real time feed from input data sources
-- Health Condition Monitoring
-  - Ability to monitor health data of indivuals on a periodic interval basis and provide alerts based on rules/thresholds set (biometrics and other demographics data can be taken as input based on Govt authority guidelines and to identify body vitals, stress parameters, energy level indicators for the analysis and anomaly detection)
-- Elevated Body temperature monitoring
-  - Ability to identify elevated body temperature beyond a certain threshold set by authorities and alert accordingly
-- Social Distance Measurement Monitoring and Alerting beyond defined threshold
-  - Ability to monitor distance between two co-workers in a zone to reflect zonal characterisation based on data from Smart phone devices and Bluetooth signals
+<table>
+  <tr>
+    <td>Solution Area</td>
+    <td>Capability Description</td>
+    <td>Type of Input Data</td>
+  </tr>
+  <tr>
+    <td>Face Mask detection</td>
+    <td>Ability to indicate whether an individual is wearing face mask or not based on video, image data analysis and share insights</td>
+    <td>Image file, Video file</td>
+  </tr>
+  <tr>
+    <td>Occupancy Monitoring</td>
+    <td>Ability to determine occupancy levels in a defined space or zone based on threshold defined by authorities. Alert authorities if it reaches threshold or goes beyond the threshold</td>
+    <td>Image file, Video file</td>
+  </tr>
+  <tr>
+    <td>No-Go Zone Monitoring and Alerting</td>
+    <td>Ability to define and set certain areas as no-go zones and alert authorities when individuals are detected. Detection of humans based on near real time feed from input data sources</td>
+    <td>Image file, Video file</td>
+  </tr>
+  <tr>
+    <td>Health Condition Monitoring</td>
+    <td>Ability to monitor health data of indivuals on a periodic interval basis and provide alerts based on rules/thresholds set (biometrics and other demographics data can be taken as input based on Govt authority guidelines and to identify body vitals, stress parameters, energy level indicators for the analysis and anomaly detection)</td>
+    <td>Image file, Video file</td>
+  </tr>
+  <tr>
+    <td>Elevated Body temperature monitoring</td>
+    <td>Ability to identify elevated body temperature beyond a certain threshold set by authorities and alert accordingly</td>
+    <td>Image file, Video file</td>
+  </tr>
+  <tr>
+    <td>Social Distance Measurement Monitoring and Alerting beyond defined threshold</td>
+    <td>Ability to monitor distance between two co-workers in a zone to reflect zonal characterisation based on data from Smart phone devices and Bluetooth signals</td>
+    <td>Image file, Video file</td>
+  </tr>
+</table>
+
 
 
 #### Contract Review related effort references

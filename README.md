@@ -65,6 +65,7 @@ It's symptoms in humans are as follows at a high level:
 
 Input data sources:
 - Thermal imaging cameras
+- CCTV camera images (both images + video clippings)
 - Thermal temperature monitoring devices and logs of those based on human wise monitoring
 - Bluetooth beacons
 - Smartphone devices with GPS enabled
@@ -72,8 +73,13 @@ Input data sources:
 Based on above data, following insights at workplace can be looked at. It can work as a Predictive Solution to alert the firm or authority.
 
 - Face Mask detection
+  - Ability to indicate whether an individual is wearing face mask or not based on video, image data analysis and share insights.
 - Occupancy Monitoring
+  - Ability to determine occupancy levels in a defined space or zone based on threshold defined by authorities
+  - Alert authorities if it reaches threshold or goes beyond the threshold
 - No-Go Zone Monitoring and Alerting
+  - Ability to define and set certain areas as no-go zones and alert authorities when individuals are detected.
+  - Detection of humans based on near real time feed from input data sources
 - Health Condition Monitoring
 - Elevated Body temperature monitoring
 - Social Distance Measurement Monitoring and Alerting beyond defined threshold

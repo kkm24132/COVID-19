@@ -61,5 +61,21 @@ It's symptoms in humans are as follows at a high level:
 - [Kaggle reference datasets](https://www.kaggle.com/covid-19-contributions)
 
 
+## 3. Solution and PoV efforts
+
+Input data sources:
+- Thermal imaging cameras
+- Thermal temperature monitoring devices and logs of those based on human wise monitoring
+- Bluetooth beacons
+- Smartphone devices with GPS enabled
+
+Based on above data, following insights at workplace can be looked at. It can work as a Predictive Solution to alert the firm or authority.
+
+- Face Mask detection
+- Occupancy Monitoring
+- No-Go Zone Monitoring and Alerting
+- Health Condition Monitoring
+- Elevated Body temperature monitoring
+- Social Distance Measurement Monitoring and Alerting beyond defined threshold
 
 

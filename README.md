@@ -39,6 +39,11 @@ It's symptoms in humans are as follows at a high level:
 - Isolation of persons traveling from affected countries or places for at least 14 days
 - Quarantine if advised
 
+### 1.5 Health and Well-being
+
+- [Emotional Well-being during COVID-19 pandemic](https://workplacelearning.morneaushepell.com/en/program/emotional-well-being-during-covid-19-pandemic-complimentary-webinar)
+- [Talking to your child about COVID-19](https://workplacelearning.morneaushepell.com/en/program/talking-your-child-about-coronavirus-complimentary-webinar)
+
 ## 2. Research and Publication efforts
 
 ### 2.1 References
@@ -46,6 +51,7 @@ It's symptoms in humans are as follows at a high level:
 - [Age-structured impact of social distancing on the COVID-19 epidemic in India](https://arxiv.org/pdf/2003.12055.pdf)
 - [COVID-Net: A tailored deep CNN design for prevention of COVID from chest radiography images](https://arxiv.org/pdf/2003.09871.pdf)
 - [Data repository by John Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+- [Get the best of stress](https://optum-au.webex.com/recordingservice/sites/optum-au/recording/36a69d21ef9042e5a5dc2fdf2660a798)
 
 ### 2.2 Parameters / KPIs of risk factors for COVID
 

@@ -31,6 +31,7 @@ It's symptoms in humans are as follows at a high level:
 ### 1.5 Health and Well-being
 
 - Destress yourself with a 20-20-20 rule: Spending endless hours in front of your laptop can strain your eyes. For every 20 minutes you spend looking at your screen of laptop/computer, look at something 20 feet away, for 20 seconds.
+- Office streches - It can be tempting to stay at your desk, but periodic, micro-breaks for movement throughout the day can help you stay energized and reduce tension [Check here](https://github.com/kkm24132/COVID-19/tree/master/Artifacts/office_stretches.pdf)
 - [Emotional Well-being during COVID-19 pandemic](https://workplacelearning.morneaushepell.com/en/program/emotional-well-being-during-covid-19-pandemic-complimentary-webinar)
 - [Talking to your child about COVID-19](https://workplacelearning.morneaushepell.com/en/program/talking-your-child-about-coronavirus-complimentary-webinar)
 - [Get the best of stress](https://optum-au.webex.com/recordingservice/sites/optum-au/recording/36a69d21ef9042e5a5dc2fdf2660a798)

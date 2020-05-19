@@ -43,6 +43,7 @@ It's symptoms in humans are as follows at a high level:
 
 - [Emotional Well-being during COVID-19 pandemic](https://workplacelearning.morneaushepell.com/en/program/emotional-well-being-during-covid-19-pandemic-complimentary-webinar)
 - [Talking to your child about COVID-19](https://workplacelearning.morneaushepell.com/en/program/talking-your-child-about-coronavirus-complimentary-webinar)
+- [Get the best of stress](https://optum-au.webex.com/recordingservice/sites/optum-au/recording/36a69d21ef9042e5a5dc2fdf2660a798)
 
 ## 2. Research and Publication efforts
 

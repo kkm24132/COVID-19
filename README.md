@@ -17,20 +17,9 @@ COVID-19 stands for Corona Virus Disease. It is an infectious disease caused by 
 ### 1.3 Symptoms
 It's symptoms in humans are as follows at a high level:
 - Common Symptoms
-  - Fever
-  - Dry Caugh 
-  - Breathing problem
-  - Fatigue
+  - Fever, Dry Caugh, Breathing problem, Fatigue etc.
 - Uncommon Symptoms
-  - Headache
-  - Nasal congestion
-  - Sore throat
-  - Coughing
-  - Pain in muscles or joints
-  - Diarrhoea
-  - Nausea and/or vomiting
-  - Kidney failure
-  - Pneumonia
+  - Headache, Nasal congestion, Sore throat, Coughing, Pain in muscles or joints, Diarrhoea, Nausea and/or vomiting, Kidney failure, Pneumonia etc.
 
 ### 1.4 Prevention Points
 - Clean hand with soap and water or alcohol-based hand rub

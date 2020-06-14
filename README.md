@@ -44,6 +44,7 @@ It's symptoms in humans are as follows at a high level:
 - [COVID-Net: A tailored deep CNN design for prevention of COVID from chest radiography images](https://arxiv.org/pdf/2003.09871.pdf)
 - [Data repository by John Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 - [Get the best of stress](https://optum-au.webex.com/recordingservice/sites/optum-au/recording/36a69d21ef9042e5a5dc2fdf2660a798)
+- [Predicting SARS CoV-2 Disease Progression based on UV index and seasonality of Human CoV](https://www.researchgate.net/publication/340412204_Predicting_the_SARS-CoV-2_Disease_Progression_based_on_the_UV_Index_and_Seasonality_of_the_Human_CoV)
 
 ### 2.2 Parameters / KPIs of risk factors for COVID
 

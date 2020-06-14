@@ -59,6 +59,7 @@ It's symptoms in humans are as follows at a high level:
 ### 2.3 Datasets
 
 - [Kaggle reference datasets](https://www.kaggle.com/covid-19-contributions)
+- [Dataset of Epidemiological Case Reports for COVID-19](https://github.com/IBM/Dataset-Epidemiologic-Investigation-COVID19)
 
 
 ## 3. Solution and PoV efforts

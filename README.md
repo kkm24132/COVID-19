@@ -46,7 +46,7 @@ It's symptoms in humans are as follows at a high level:
 - [Get the best of stress](https://optum-au.webex.com/recordingservice/sites/optum-au/recording/36a69d21ef9042e5a5dc2fdf2660a798)
 - [Predicting SARS CoV-2 Disease Progression based on UV index and seasonality of Human CoV](https://www.researchgate.net/publication/340412204_Predicting_the_SARS-CoV-2_Disease_Progression_based_on_the_UV_Index_and_Seasonality_of_the_Human_CoV)
 - [WHO definition of UV Index](https://www.who.int/uv/publications/en/UVIGuide.pdf)
-- [Effect of radiation on the infectivity of SARS CoV](Inactivation of the coronavirus that induces severe acute respiratory syndrome, SARS-CoV)
+- [Effect of radiation on the infectivity of SARS CoV](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7112912/)
 
 ### 2.2 Parameters / KPIs of risk factors for COVID
 

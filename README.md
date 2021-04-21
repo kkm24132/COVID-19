@@ -10,6 +10,9 @@
   - [Wiki reference for COVID-19 portal](https://en.wikipedia.org/wiki/Portal:Coronavirus_disease_2019)
   - [India specific stats on COVID19](https://www.covid19india.org/)
   - [Odisha state specific stats on COVID19](https://statedashboard.odisha.gov.in/)
+- Bangalore / India specific sites that may be of help
+  - [Covid helpline Bangalore](https://covidhelplinebangalore.com/)
+  - [Bed Availability in BBMP / Bangalore](https://bbmpgov.com/chbms/)
 
 ### 1.2 Definition
 COVID-19 stands for Corona Virus Disease. It is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease was first identified in Wuhan, China in 2019.
@@ -149,3 +152,4 @@ Based on above data, following insights at workplace can be looked at. It can wo
 - [From Kira systems](https://kirasystems.com/blog/infographic-the-impacts-of-covid-19-on-businesses/)
 
 
+**Disclaimer: The information here are for information purposes or awareness purposes. Please go to respective sites for any authenticity.**

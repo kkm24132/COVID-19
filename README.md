@@ -28,7 +28,12 @@ It's symptoms in humans are as follows at a high level:
 - Isolation of persons traveling from affected countries or places for at least 14 days
 - Quarantine if advised
 
-### 1.5 Health and Well-being
+### 1.5 Vaccination
+
+- Vaccination efforts have been started and in progress with tremendous efforts from scientists, researchers across the globe.
+- Please refer [here on guidance document](https://extranet.who.int/pqweb/sites/default/files/documents/Status_COVID_VAX_16Feb2021.pdf) for latest details of vaccines available globally 
+
+### 1.6 Health and Well-being
 
 - Destress yourself with a 20-20-20 rule: Spending endless hours in front of your laptop can strain your eyes. For every 20 minutes you spend looking at your screen of laptop/computer, look at something 20 feet away, for 20 seconds.
 - [Office stretches](https://github.com/kkm24132/COVID-19/tree/master/Artifacts/office_stretches.pdf) - It can be tempting to stay at your desk, but periodic, micro-breaks for movement throughout the day can help you stay energized and reduce tension.

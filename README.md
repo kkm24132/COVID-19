@@ -16,17 +16,28 @@ COVID-19 stands for Corona Virus Disease. It is an infectious disease caused by 
 
 ### 1.3 Symptoms
 It's symptoms in humans are as follows at a high level:
-- Common Symptoms
-  - Fever, Dry Caugh, Breathing problem, Fatigue etc.
-- Uncommon Symptoms
-  - Headache, Nasal congestion, Sore throat, Coughing, Pain in muscles or joints, Diarrhoea, Nausea and/or vomiting, Kidney failure, Pneumonia etc.
+
+| Category of Symptoms | Description |
+|          --          |      --     |
+| More Common Symptoms | Fever, Dry Cough, Fatigue / Tiredness, Breathing discomfort |
+| Less Common Symptoms | Aches and Pains, Headache, Nasal Congestion, Sore throat, Diarrhoea, Conjuctivitis, Loss of taste or smell, A rash on skin etc. |
+| Serious Symptoms     | High difficulty of breathing or shortness of breath, Chest pain or pressure, Loss of speech or movement |
+
+On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days.
+This may change as we experience very dynamic symptoms across the globe and different waves of infections across the globe are appearing at different geographies.
 
 ### 1.4 Prevention Points
-- Clean hand with soap and water or alcohol-based hand rub
-- Cover nose and mouth when coughing & sneezing with a tissue or flexed elbow
-- Avoid close contact & maintain 1-meter distance with anyone who is coughing or sneezing
-- Isolation of persons traveling from affected countries or places for at least 14 days
-- Quarantine if advised
+Protect yourself and others around you by knowing the facts and taking appropriate precautions. Follow advice provided by your local and government health authority. Some steps that can be taken for prevention efforts are as follows:
+- Clean your hands often. Use soap and water, or an alcohol-based hand rub.
+- Maintain a safe distance (ideally at least 1-meter distance) from anyone who is coughing or sneezing.
+- Cover nose and mouth when coughing & sneezing with a tissue or flexed elbow.
+- Wear a mask when physical distancing is not possible. Don’t touch your eyes, nose or mouth.
+- Stay home if you feel unwell.
+- Isolation of persons traveling from affected countries or places for at least 14 days or as directed by local/state/government authorities from time to time.
+- Quarantine if advised.
+- If you have a fever, cough and difficulty breathing, seek medical attention. Additionally, follow latest symptoms and try to protect yourself from those whenever desired. 
+- It is important to keep up to date on types of symptoms as it may vary / change from time to time.
+
 
 ### 1.5 Vaccination
 

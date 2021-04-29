@@ -7,6 +7,7 @@
   - [World Health Organisation - COVID updates](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
   - [Centers for Disease Control and Prevention - COVID updates](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
   - [Stats from Worldometers](https://www.worldometers.info/coronavirus/)
+  - [John Hopkins Univ Dataset - COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE)](https://github.com/CSSEGISandData/COVID-19)
   - [Wiki reference for COVID-19 portal](https://en.wikipedia.org/wiki/Portal:Coronavirus_disease_2019)
   - [India specific stats on COVID19](https://www.covid19india.org/)
   - [Odisha state specific stats on COVID19](https://statedashboard.odisha.gov.in/)
@@ -96,7 +97,8 @@ Protect yourself and others around you by knowing the facts and taking appropria
 
 - [COVID19 Open Research Dataset from Semantic Scholar](https://www.semanticscholar.org/cord19)
 - [Daily Granular Level COVID19 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
-
+- [Genome Sequence Dataset from Kaggle](https://www.kaggle.com/paultimothymooney/coronavirus-genome-sequence)
+- [Testings across the globe for COVID19](https://ourworldindata.org/coronavirus-testing)
 - [Kaggle reference datasets](https://www.kaggle.com/covid-19-contributions)
 - [Dataset of Epidemiological Case Reports for COVID-19](https://github.com/IBM/Dataset-Epidemiologic-Investigation-COVID19)
 

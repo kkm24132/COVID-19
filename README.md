@@ -92,6 +92,11 @@ Protect yourself and others around you by knowing the facts and taking appropria
 
 ### 2.3 Datasets
 
+#### Global Datasets
+
+- [COVID19 Open Research Dataset from Semantic Scholar](https://www.semanticscholar.org/cord19)
+- [Daily Granular Level COVID19 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+
 - [Kaggle reference datasets](https://www.kaggle.com/covid-19-contributions)
 - [Dataset of Epidemiological Case Reports for COVID-19](https://github.com/IBM/Dataset-Epidemiologic-Investigation-COVID19)
 

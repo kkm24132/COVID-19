@@ -42,7 +42,7 @@ Protect yourself and others around you by knowing the facts and taking appropria
 - If you have a fever, cough and difficulty breathing, seek medical attention. Additionally, follow latest symptoms and try to protect yourself from those whenever desired. 
 - It is important to keep up to date on types of symptoms as it may vary / change from time to time.
 - Here is a reference for travellers to follow [TSA Guidelines](https://www.tsa.gov/sites/default/files/infographic-covid19.pdf) for safety 
-- CDC Guideline for travelers [here](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html) for reference
+- [CDC Guideline](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html) for travelers for reference
 
 ### 1.5 Vaccination
 

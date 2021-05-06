@@ -2,7 +2,16 @@
 
 Following are the Contents of this repository.
 - [1. Awareness](https://github.com/kkm24132/COVID-19#1-awareness)
+  - [1.1 Sources](https://github.com/kkm24132/COVID-19#11-sources)
+  - [1.2 Definition](https://github.com/kkm24132/COVID-19#12-definition)
+  - [1.3 Symptoms](https://github.com/kkm24132/COVID-19#13-symptoms)
+  - [1.4 Prevention Points](https://github.com/kkm24132/COVID-19#14-prevention-points)
+  - [1.5 Vaccination](https://github.com/kkm24132/COVID-19#15-vaccination)
+  - [1.6 Health and Well-being](https://github.com/kkm24132/COVID-19#16-health-and-well-being)
 - [2. Research and Publication Efforts](https://github.com/kkm24132/COVID-19#2-research-and-publication-efforts)
+  - [2.1 References](https://github.com/kkm24132/COVID-19#21-references)
+  - [2.2 Parameters / KPIs of risk factors for Covid](https://github.com/kkm24132/COVID-19#22-parameters--kpis-of-risk-factors-for-covid)
+  - [2.3 Datasets](https://github.com/kkm24132/COVID-19#23-datasets)
 - [3. Solution and PoV Efforts](https://github.com/kkm24132/COVID-19#3-solution-and-pov-efforts)
 
 

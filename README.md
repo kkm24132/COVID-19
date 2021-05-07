@@ -33,6 +33,16 @@ Following are the Contents of this repository.
 ### 1.2 Definition
 COVID-19 stands for Corona Virus Disease. It is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease was first identified in Wuhan, China in 2019.
 
+**SARS-CoV-2 Variants**: Different variants and classifications around that can be explored in CDC site [here](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/variant-surveillance/variant-info.html). Variants of interest are as follows (please refer to CDC site for latest on this):
+- B.1.526 - First detected in US in Nov2020
+- B.1.526.1 - US in Oct2020
+- B.1.525 - UK/Nigeria in Dec2020
+- P.2 - Brazil in Apr2020
+- B.1.617 - India in Feb2021
+- B.1.617.1 - India in Dec2020
+- B.1.617.2 - India in Dec2020
+- B.1.617.3 - India in Oct2020
+
 ### 1.3 Symptoms
 It's symptoms in humans are as follows at a high level:
 

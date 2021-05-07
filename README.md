@@ -83,7 +83,7 @@ Protect yourself and others around you by knowing the facts and taking appropria
 - [Emotional Well-being during COVID-19 pandemic](https://workplacelearning.morneaushepell.com/en/program/emotional-well-being-during-covid-19-pandemic-complimentary-webinar)
 - [Talking to your child about COVID-19](https://workplacelearning.morneaushepell.com/en/program/talking-your-child-about-coronavirus-complimentary-webinar)
 - [Get the best of stress](https://optum-au.webex.com/recordingservice/sites/optum-au/recording/36a69d21ef9042e5a5dc2fdf2660a798)
-
+- [Guide to Restoring Movement](https://github.com/kkm24132/COVID-19/blob/master/Artifacts/Guide_Restoring_Movement.pdf)
 
 [Back to Top](https://github.com/kkm24132/COVID-19#covid-19)
 

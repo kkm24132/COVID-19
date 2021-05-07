@@ -24,6 +24,7 @@ Following are the Contents of this repository.
   - [Stats from Worldometers](https://www.worldometers.info/coronavirus/)
   - [John Hopkins Univ Dataset - COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE)](https://github.com/CSSEGISandData/COVID-19)
   - [Wiki reference for COVID-19 portal](https://en.wikipedia.org/wiki/Portal:Coronavirus_disease_2019)
+  - [Mapping COVID cases across the world](https://www.bloomberg.com/graphics/2020-coronavirus-cases-world-map/)
   - [India specific stats on COVID19](https://www.covid19india.org/)
   - [Odisha state specific stats on COVID19](https://statedashboard.odisha.gov.in/)
 - Bangalore / India specific sites that may be of help

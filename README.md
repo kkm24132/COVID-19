@@ -64,10 +64,16 @@ Protect yourself and others around you by knowing the facts and taking appropria
 - Vaccination efforts have been started and in progress with tremendous efforts from scientists, researchers across the globe.
 - Please refer [Guidance document on Status of Vaccines within WHO EUL/PQ evaluation process](https://extranet.who.int/pqweb/sites/default/files/documents/Status_COVID_VAX_04May2021.pdf) for latest details of vaccines available globally. This gets updated on a regular basis. Please refer to WHO website for the latest on this always.
 - Further [Vaccine details list](https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker) from RAPS.org
-- Known Active Vaccines List: (Please check WHO for updated list)
-  - Comirnaty(BNT162b2) - mRNA based vaccine
-  - Moderna (mRNA-1273) - mRNA based vaccine
-  - AstraZeneca (AZD1222) / Vaxzevria / Covishield - Adenovirus vaccine
+- Known Active Vaccines List: (Please check WHO for updated list) - Below representation is based on list from WHO guidance [here](https://extranet.who.int/pqweb/sites/default/files/documents/Status_COVID_VAX_04May2021.pdf)
+
+| Name of Vaccine | Description, Platform | Manufacturer / WHO EUL Holder |
+|       --        |          --          |              --               |
+| BNT162b2/COMIRNATY Tozinameran (INN) | mRNA based vaccine, Nucleoside modified mNRA | Pfizer BIONTech
+| Moderna (mRNA-1273) |  mRNA based vaccine, mRNA-1273 encapsulated in lipid nanoparticle (LNP) | Moderna BioTech
+| AstraZeneca (AZD1222) | Adenovirus, Recombinant ChAdOx1 adenoviral vector encoding the Spike protein antigen of the SARS-CoV-2 | AstraZeneca Oxford
+| Covishield (ChAdOx1_nCOV-19) | Adenovirus, Recombinant ChAdOx1 adenoviral vector encoding the Spike protein antigen of the SARS-CoV-2 | Serum Institute of India Pvt Ltd
+
+Others:
   - Sputnik V - Recombinant Adenovirus vaccine (rAd26 and rAd5)
   - Janssen (JNJ-78436735; Ad26.COV2.S) - Non-replicating viral vector
   - CoronaVac - Inactivated vaccine (formalin with alum adjuvant)

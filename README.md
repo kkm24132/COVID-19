@@ -62,9 +62,9 @@ Protect yourself and others around you by knowing the facts and taking appropria
 ### 1.5 Vaccination
 
 - Vaccination efforts have been started and in progress with tremendous efforts from scientists, researchers across the globe.
-- Please refer [here on guidance document](https://extranet.who.int/pqweb/sites/default/files/documents/Status_COVID_VAX_04May2021.pdf) for latest details of vaccines available globally 
-- Further [vaccine details list](https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker) from RAPS.org
-- Known active vaccines list:
+- Please refer [Guidance document on Status of Vaccines within WHO EUL/PQ evaluation process](https://extranet.who.int/pqweb/sites/default/files/documents/Status_COVID_VAX_04May2021.pdf) for latest details of vaccines available globally. This gets updated on a regular basis. Please refer to WHO website for the latest on this always.
+- Further [Vaccine details list](https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker) from RAPS.org
+- Known Active Vaccines List: (Please check WHO for updated list)
   - Comirnaty(BNT162b2) - mRNA based vaccine
   - Moderna (mRNA-1273) - mRNA based vaccine
   - AstraZeneca (AZD1222) / Vaxzevria / Covishield - Adenovirus vaccine

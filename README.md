@@ -74,6 +74,7 @@ Protect yourself and others around you by knowing the facts and taking appropria
 
 - Vaccination efforts have been started and in progress with tremendous efforts from scientists, researchers across the globe.
 - Please refer [Guidance document on Status of Vaccines within WHO EUL/PQ evaluation process](https://extranet.who.int/pqweb/sites/default/files/documents/Status_COVID_VAX_04May2021.pdf) for latest details of vaccines available globally. This gets updated on a regular basis. Please refer to WHO website for the latest on this always.
+- [Vaccine Information from Bloomberg](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/)
 - Further [Vaccine details list](https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker) from RAPS.org
 - Known Active Vaccines List: (Please check WHO for updated list) - Below representation is based on list from WHO guidance [here](https://extranet.who.int/pqweb/sites/default/files/documents/Status_COVID_VAX_04May2021.pdf)
 

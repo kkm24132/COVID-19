@@ -131,7 +131,8 @@ Others:
 ### 2.3 Datasets
 
 #### Global Datasets
-
+- [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
+- [Our World Datasets on COVID19 Vaccinations](https://ourworldindata.org/covid-vaccinations)
 - [COVID19 Open Research Dataset from Semantic Scholar](https://www.semanticscholar.org/cord19)
 - [Daily Granular Level COVID19 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 - [Genome Sequence Dataset from Kaggle](https://www.kaggle.com/paultimothymooney/coronavirus-genome-sequence)

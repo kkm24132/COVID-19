@@ -1,6 +1,5 @@
 # COVID-19
-
-Following are the Contents of this repository.
+This repository aims to cover high level view of awareness, various key sources of information that we may follow to stay us updated, some of the wiki definitions, symptoms, prevention points, vaccination information pertaining to COVID19. It also covers some of the research efforts going on in this field to gather insights, forecast predictions, novel and innovative features to understand root causes and patterns in detail. This is ongoing effort across the globe from various authorities, organizations, forums, researchers, scientists, practitioners etc. Following are the Contents of this repository (section and sub-section wise) for quick TOC to travese better.
 - [1. Awareness](https://github.com/kkm24132/COVID-19#1-awareness)
   - [1.1 Sources](https://github.com/kkm24132/COVID-19#11-sources)
   - [1.2 Definition](https://github.com/kkm24132/COVID-19#12-definition)

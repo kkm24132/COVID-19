@@ -27,6 +27,7 @@ Following are the Contents of this repository.
   - [Mapping COVID cases across the world](https://www.bloomberg.com/graphics/2020-coronavirus-cases-world-map/)
   - [India specific stats on COVID19](https://www.covid19india.org/)
   - [Odisha state specific stats on COVID19](https://statedashboard.odisha.gov.in/)
+  - Current [Forecast of cases in India in collaboration with IIT](https://www.sutra-india.in/)
 - Bangalore / India specific sites that may be of help
   - [Covid helpline Bangalore](https://covidhelplinebangalore.com/)
   - [Bed Availability in BBMP / Bangalore](https://bbmpgov.com/chbms/)

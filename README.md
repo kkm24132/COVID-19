@@ -200,4 +200,4 @@ Based on above data, following insights at workplace can be looked at. It can wo
 - [From Kira systems](https://kirasystems.com/blog/infographic-the-impacts-of-covid-19-on-businesses/)
 
 
-**Disclaimer: The information here are for information purposes or awareness purposes. Please go to respective sites for any authenticity. These are purely my attempt for learning objectives and no way relate to any firm's opinion or any institute's opinion. Thank you and appreciate your time in visiting the repository.**
+Disclaimer: The information here are for information purposes or awareness purposes. Please go to respective sites for any authenticity. These are purely my attempt for learning objectives and no way relate to any firm's opinion or any institute's opinion. Thank you and appreciate your time in visiting the repository.
